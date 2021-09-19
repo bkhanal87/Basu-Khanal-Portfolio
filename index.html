@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My personal Portfolio</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
@@ -13,10 +13,11 @@
 
     <header>
         <div class="user">
-            <img src="Basu_Khanal_Photo.jpg" alt="my picture">
+            <img src="Basu_Khanal_Photo.jpg" alt="my photo">
             <h3 class="name">Basu Khanal</h3>
             <p class="post">Software Developer</p>
         </div>
+
         <nav class="navbar">
             <ul>
                 <li><a href="#home">home</a></li>
@@ -33,7 +34,7 @@
     <section class="home" id="home">
         <h3>Hello!</h3>
         <h1>I am <span>Basu Khanal</span></h1>
-        <p>I currently work for </p>
+        <p>I am currently enrolled in a Coding Bootcamp at the Ohio State University. I work for the State of Ohio, Opportunities for Ohioans with Disabilities as a Accountant Examiner II. Please see detail information about me in the following sections. Thank you! </p>
         <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
     </section>
 
@@ -45,48 +46,134 @@
                 <h3> <span> name : </span> Basu Khanal </h3>
                 <h3> <span> age : </span> 34 </h3>
                 <h3> <span> highest level of education : </span> Bachelors Degree</h3>
-                <h3> <span> current employment : </span> State of Ohio </h3>
+                <h3> <span> current employment : </span> AE2; State of Ohio </h3>
+                <a href="#"><button class="btn"> download CV <i class="fas fa-download"></i> </button></a>
+            </div>
+
+            <div class="counter">
+
+                <div class="box">
+                    <span>OSU Coding Bootcamp student</span>
+                    <h3>learning web developement</h3>
+                </div>
+
+                <div class="box">
+                    <span>10+</span>
+                    <h3>mini-projects completed</h3>
+                </div>
+
+                <div class="box">
+                    <span>1</span>
+                    <h3>master project completed</h3>
+                </div>
             </div>
         </div>
     </section>
 
-    <section class="education" id="#education">
-        <h1 class="heading"> my <span>education</span></h1>
+    <section class="education" id="education">
+        <h1 class="heading"> my <span>education</span> </h1>
         <div class="box-container">
 
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2022</span>
-                <h3>Coding Bootcamp</h3>
-                <p>Lorem Ipsum afkjlfajldjlkfj</p>
+                <h3>OSU Coding Bootcamp</h3>
+                <p>Current student; expected graduation date: January 2021</p>
             </div>
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2017</span>
-                <h3>BS HealthCare Management</h3>
-                <p></p>
+                <h3>BS - HealthCare Management</h3>
+                <p>Magna Cum Laude - 3.98 GPA; Honors: Dean's List; Rising Star Scholarship</p>
             </div>
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2014</span>
-                <h3>AS Health Information Management</h3>
-                <p></p>
+                <h3>AS - Health Information Management</h3>
+                <p>Cum Laude - 3.65 GPA</p>
             </div>
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2008</span>
                 <h3>Coursework in Physics</h3>
-                <p></p>
+                <p>Foreign Degree; GPA: Unknown; Incomplete Bachelors in Science; Major: Physics; Minor: Math</p>
             </div>
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2006</span>
                 <h3>High School Diploma</h3>
-                <p></p>
+                <p>Foreign HS Diploma; GPA: Unknown</p>
             </div>
         </div>
 
     </section>
+
+    <section class="portfolio" id="portfolio">
+        <h1 class="heading"> my <span>portfolio</span> </h1>
+        <div class="box-container">
+            <div class="box">
+                <img src="./project-one.JPG" alt="National Park Search Page">
+            </div>
+            
+            <div class="box">
+                <img src="./project-one-pic-2.JPG" alt="Search Results">
+            </div>
+            
+            <div class="box">
+                <img src="password-generator.JPG" alt="password generated logo">
+            </div>
+
+            <div class="box">
+                <img src="work-day-scheduler.JPG" alt="workday scheduler photo">
+            </div>
+
+            <div class="box">
+                <img src="coding-quiz-challenge.JPG" alt="coding quiz challenge photo">
+            </div>
+
+            <div class="box">
+                <img src="weather-dashboard.JPG" alt="weather dashboard photo">
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+
+        <h1 class="heading"> <span>contact</span> me </h1>
+
+        <div class="row">
+            <div class="content">
+                <h3 class="title">contact info</h3>
+                
+                <div class="info">
+                    <h3> <i class="fas fa-envelope"></i> bkhanal87@gmail.com</h3>
+                    <h3> <i class="fab fa-linkedin"></i>https://www.linkedin.com/in/basukhanal</h3>
+                    <h3> <i class="fas fa-phone"></i>720-226-5671</h3>
+                    <h3> <i class="fas fa-map-marker-alt"></i> Liberty Twp, OH 45011</h3>
+                </div>
+            </div>
+
+            <form action="">
+
+                <input type="text" placeholder="name" class="box">
+                <input type="email" placeholder="email" class="box">
+                <input type="text" placeholder="project" class="box">
+                <textarea name="" id="" cols="30" rows="10" class="box message" placeholder="message"></textarea>
+                <button type="submit"> send <i class="fas fa-paper-plane"></i>
+                </button>
+                
+            </form>
+        </div>
+
+
+
+
+
+
+
+    </section>
+
+
 
 
 
