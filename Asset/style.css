@@ -289,51 +289,17 @@ header .navbar ul li a:hover{
     background: var(--yellow);
 }
 
-/* .portfolio .box-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding: 2rem 0;
+
+.portfolio .card .h3 {
+    font-size: 1.25em;
+    text-align: center;
+    margin-bottom: 15px;
 }
-
-.portfolio .box-container .box{
-    height: 20rem;
-    width: 26rem;
-    border-radius: 1rem;
-    margin: 2rem;
-    overflow: hidden;
-    cursor: pointer;
+.portfolio .card .img .img{
+    border: 4px solid #364958;
+    width: 100%;
+    border-radius: 0;
 }
-
-.portfolio .box-container .box img{
-    height: 30%;
-    width: 30%;
-    object-fit: cover;
-}
-
-.portfolio .card .img{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 20%;
-    padding: 5%;
-    aspect-ratio: 3/2;
-    margin-bottom: 20px;
-    position: relative;
-    
-}
-
-.portfolio .card{
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-}
-
-.portfolio .box-container .box:hover img{
-    transform: scale(1.2);
-} */
-
 .portfolio .card .img .proj-links a{
     display: block;
     padding: 1rem;
