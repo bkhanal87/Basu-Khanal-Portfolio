@@ -1,5 +1,7 @@
 Title:  My-updated-portfolio
 
+Technologies used: HTML, CSS, JS
+
 Description: My updated portfolio with the new project, Take-a-break that I just completed. This updated portfolio also has some of my other important works pinned, my personal information, my educational background, and my contact information. 
 
 Tests: 
