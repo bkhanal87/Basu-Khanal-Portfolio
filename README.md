@@ -2,9 +2,9 @@
 
 **Table of Contents**
 
-(Technologies Used)
-Description
-Tests
+[Technologies Used]
+[Description]
+[Tests]
 Licenses
 Installation
 Contributing
