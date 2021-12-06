@@ -2,7 +2,7 @@
 
 **Table of Contents**
 
-[Technologies Used]
+(Technologies Used)
 Description
 Tests
 Licenses
