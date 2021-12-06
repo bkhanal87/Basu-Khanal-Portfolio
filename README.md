@@ -2,12 +2,12 @@
 
 **Table of Contents**
 
-[Technologies Used
+[Technologies Used]
 Description
 Tests
 Licenses
 Installation
-Contributing]
+Contributing
 
 **Technologies Used**: HTML, CSS, JS
 
