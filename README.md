@@ -1,6 +1,15 @@
 **Title**:  My-updated-portfolio
 
-**Technologies used**: HTML, CSS, JS
+**Table of Contents**
+
+[Technologies Used
+Description
+Tests
+Licenses
+Installation
+Contributing]
+
+**Technologies Used**: HTML, CSS, JS
 
 **Description**: My updated portfolio with the new project, Take-a-break that I just completed. This updated portfolio also has some of my other important works pinned, my personal information, my educational background, and my contact information. 
 
@@ -14,8 +23,12 @@
 
 **Licenses**: None
 
+**Installation**
+
 [My Portfolio GitHub Repo]: (https://github.com/bkhanal87/My-updated-portfolio)
 
 [My Portfolio URL]: (https://bkhanal87.github.io/My-updated-portfolio/)
 
-**Contact me**: Please check my other works visiting my GitHub Repo: **(https://github.com/bkhanal87)**. Please contact me at **bkhanal87@gmail.com** with any questions, suggestion, and feedbacks. Thank you for your time! 
+**Contributing**
+
+Please check my other works visiting my GitHub Repo: **(https://github.com/bkhanal87)**. Please contact me at **bkhanal87@gmail.com** with any questions, suggestion, and feedbacks. Thank you for your time! 
