@@ -1,4 +1,4 @@
-**Title**:  My-updated-portfolio
+**Title**:  Basu-Khanal-Portfolio
 
 **Table of Contents**
 
@@ -14,7 +14,7 @@
 
 -[Contributing](#Contributing)
 
-**Technologies Used**: HTML, CSS, JS
+##Technologies-used: HTML, CSS, JS
 
 **Description**: My updated portfolio with the new project, Take-a-break that I just completed. This updated portfolio also has some of my other important works pinned, my personal information, my educational background, and my contact information. 
 
