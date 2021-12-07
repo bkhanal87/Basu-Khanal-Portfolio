@@ -3,10 +3,15 @@
 **Table of Contents**
 
 -[Technologies Used](#Technologies-used)
+
 -[Description](#Description)
+
 -[Tests](#Tests)
+
 -[Licenses](#Licenses)
+
 -[Installation](#Installation)
+
 -[Contributing](#Contributing)
 
 **Technologies Used**: HTML, CSS, JS
