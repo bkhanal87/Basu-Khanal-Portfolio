@@ -1,8 +1,8 @@
 **Title**:  My-updated-portfolio
 
-###Table of Contents###
+**Table of Contents**
 
-**[Technologies Used
+-[Technologies Used](#Technologies-used)
 Description
 Tests
 Licenses
