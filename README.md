@@ -1,6 +1,6 @@
 **Title**:  My-updated-portfolio
 
-**Table of Contents**
+###Table of Contents###
 
 **[Technologies Used
 Description
