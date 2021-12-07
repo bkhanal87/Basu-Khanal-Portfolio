@@ -22,7 +22,7 @@ HTML, CSS, JS
 
 ## Description
 
-My updated portfolio with the new project, Take-a-break that I just completed. This updated portfolio also has some of my other important works pinned, my personal information, my educational background, and my contact information. 
+This is my updated portfolio that includes the new project, Take-a-break, that me and two other developers recently accomplished. Along with my short biography, my updated portfolio also includes sections detailing my skills, my education and my contact information. 
 
 ## Tests: 
 ![portfolio-homepage](https://user-images.githubusercontent.com/87610840/141668691-2729da8a-b276-461c-beb5-213d8d82607d.JPG)
@@ -40,11 +40,11 @@ None
 
 There isn't anything that needs to be installed to use this project other than cloning my portfolio GitHub Repo (link below) to your local computer.
 
-[My Portfolio GitHub Repo]: (https://github.com/bkhanal87/My-updated-portfolio)
+[My Portfolio GitHub Repo](https://github.com/bkhanal87/My-updated-portfolio)
 
 To view my Portfolio, here's the live URL:
 
-[My Portfolio URL]: (https://bkhanal87.github.io/My-updated-portfolio/)
+[My Portfolio URL](https://bkhanal87.github.io/My-updated-portfolio/)
 
 ## Contributing
 
