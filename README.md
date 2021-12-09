@@ -40,11 +40,11 @@ None
 
 There isn't anything that needs to be installed to use this project other than cloning my portfolio GitHub Repo (link below) to your local computer.
 
-[My Portfolio GitHub Repo](https://github.com/bkhanal87/My-updated-portfolio)
+-[My Portfolio GitHub Repo](#https://github.com/bkhanal87/My-updated-portfolio)
 
 To view my Portfolio, here's the live URL:
 
-[My Portfolio URL](https://bkhanal87.github.io/My-updated-portfolio/)
+-[My Portfolio URL](#https://bkhanal87.github.io/Basu-Khanal-Portfolio/)
 
 ## Contributing
 
